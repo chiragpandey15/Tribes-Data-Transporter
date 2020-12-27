@@ -7,4 +7,5 @@ Replace the values in line 171, 172, 176, 177, 178 and 179 with the respective v
 To run this flask app run the following commands in your terminal
 
 pip install -r requirements.txt
+
 python app.py 
