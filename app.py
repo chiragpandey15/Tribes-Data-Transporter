@@ -192,4 +192,4 @@ if __name__=="__main__":
 	sync()
 
 
-	app.run(debug=True) 
+	app.run(debug=False) 
